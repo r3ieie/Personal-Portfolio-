@@ -38,3 +38,5 @@ Author
 Created by: Ryza Dalanon
 
 BS Information Systems Student
+
+Open the live site: 👉 https://r3ieie.github.io/Personal-Portfolio-/
